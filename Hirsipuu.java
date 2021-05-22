@@ -29,7 +29,7 @@ public class Hirsipuu {
                     String word = scan.nextLine().toLowerCase();
 
                     // Yritetään piilottaa toisen pelaajan antama sana :D
-                    for(int i = 0; i <= 10; i++) {
+                    for(int i = 0; i <= 50; i++) {
                         System.out.println();
                     }
 
